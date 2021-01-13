@@ -1,0 +1,36 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "name": "Lenovo",
+         "imageUrl": "<dummyURL>",
+         "categoryId": 1
+      },
+      {
+         "id": 2,
+         "name": "Mac",
+         "imageUrl": "<dummyURL>",
+         "categoryId": 1
+      },
+      {
+         "id": 3,
+         "name": "Dell",
+         "imageUrl": "<dummyURL>",
+         "categoryId": 1
+      }
+   ],
+   "categories": [
+      {
+         "id": 1,
+         "name": "Laptops"
+      },
+      {
+         "id": 2,
+         "name": "Mobiles"
+      },
+      {
+         "id": 3,
+         "name": "Speakers"
+      }
+   ]
+}
