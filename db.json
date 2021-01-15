@@ -18,6 +18,55 @@
          "imageUrl": "<dummyURL>",
          "categoryId": 1
       }
+      ,
+      {
+         "id": 4,
+         "name": "iPhone",
+         "imageUrl": "<dummyURL>",
+         "categoryId": 2
+      }
+      ,
+      {
+         "id": 5,
+         "name": "Samsung",
+         "imageUrl": "<dummyURL>",
+         "categoryId": 2
+      }
+      ,
+      {
+         "id": 6,
+         "name": "iPhone12",
+         "imageUrl": "<dummyURL>",
+         "categoryId": 2
+      }
+      ,
+      {
+         "id": 7,
+         "name": "Bose",
+         "imageUrl": "<dummyURL>",
+         "categoryId": 3
+      }
+      ,
+      {
+         "id": 8,
+         "name": "JBL",
+         "imageUrl": "<dummyURL>",
+         "categoryId": 3
+      }
+      ,
+      {
+         "id": 9,
+         "name": "Denon",
+         "imageUrl": "<dummyURL>",
+         "categoryId": 3
+      }
+      ,
+      {
+         "id": 10,
+         "name": "Pioneer",
+         "imageUrl": "<dummyURL>",
+         "categoryId": 3
+      }
    ],
    "categories": [
       {
